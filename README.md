@@ -7,4 +7,5 @@
 - 아래 구글 드라이브 경로를 클릭하여 폴더 내 있는 모든 파일을 다운로드 받으세요.
 (link)
 - 해당 폴더 안에 있는 파일을 활용하여 시각화 실습을 해보기 바랍니다.
-- ggplot_cheatsheet.pdf: ggplot에서 활용되는 기초 문법을 정리한 자료입니다.
+- R_ggplot_cheatsheet.pdf: R의 ggplot에서 활용되는 기초 문법을 정리한 자료입니다.
+- Python_seaborn_cheatsheet.pdf: Python의 seaborn에서 활용되는 기초 문법을 정리한 자료입니다 (출처: www.DataCamp.com)
