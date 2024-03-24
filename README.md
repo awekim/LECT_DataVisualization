@@ -13,3 +13,4 @@
 - Python_seaborn_cheatsheet.pdf: Python의 seaborn에서 활용되는 기초 문법을 정리한 자료입니다 (출처: www.DataCamp.com).
 - DataVisualization_Pythoncode.ipynb: Python을 활용한 데이터 시각화 실습 코드
 - DataVisualization_Rcode.R: R을 활용한 데이터 시각화 실습 코드
+- DataVisualization_Tableau.twb: 타블로를 활용한 데이터 시각화 실습 파일
